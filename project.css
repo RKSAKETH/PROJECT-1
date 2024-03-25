@@ -1,0 +1,34 @@
+#h1{
+    text-align: center;
+    color: brown;
+}
+#entire{position: relative;width: 100%;height: 100vh;
+    /* background-image: url("https://www.livemint.com/lm-img/img/2023/06/01/1600x900/donuts_1685654257861_1685654258152.jpg"); */
+/* background-image: url("https://etimg.etb2bimg.com/photo/99489409.cms"); */
+background-image: url("https://goodthingsbaking.com/wp-content/uploads/2022/05/strawberry-ice-cream-recipe-13.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    text-decoration: none;
+    color: black;
+    font-weight:900 ;
+}
+.item:hover{
+    /* text-decoration: underline; */
+    /* transition: 2s; */
+    border: 2px solid grey;
+    /* box-shadow: 10px 10px 10px grey; */
+}
+#menu{
+    color: black;
+    border:2px solid black;
+    background-color: pink;
+}
+.item{
+    font-size: 25px;
+}
